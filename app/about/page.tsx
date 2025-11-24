@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/Button";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function AboutPage() {
     return (
@@ -13,10 +14,12 @@ export default function AboutPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-20">
                 <div>
-                    <img
-                        src="https://placekitten.com/800/600"
+                    <Image
+                        src="/images/about_cats.png"
                         alt="Gatos brincando"
-                        className="rounded-lg shadow-lg"
+                        width={800}
+                        height={600}
+                        className="rounded-lg shadow-lg w-full h-auto"
                     />
                 </div>
                 <div>

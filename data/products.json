@@ -64,7 +64,7 @@
     "condition": "Usado",
     "description": "Pouco uso, em ótimo estado. Seu gato vai adorar se esconder aqui.",
     "images": [
-      "/products/toy.png"
+      "/products/tunel.png"
     ],
     "tags": [
       "tunel",
@@ -101,7 +101,7 @@
     "condition": "Novo",
     "description": "Kit com 3 bolinhas coloridas que fazem barulho.",
     "images": [
-      "/products/toy.png"
+      "/products/bolinha_guizo.png"
     ],
     "tags": [
       "bolinha",
@@ -120,7 +120,7 @@
     "condition": "Usado",
     "description": "Brinquedo interativo, falta uma bolinha mas funciona perfeitamente.",
     "images": [
-      "/products/toy.png"
+      "/products/ball3.png"
     ],
     "tags": [
       "torre",
@@ -139,7 +139,7 @@
     "condition": "Novo",
     "description": "Carregamento USB, sensor de movimento. Parece um peixe de verdade!",
     "images": [
-      "/products/toy.png"
+      "/products/fish.png"
     ],
     "tags": [
       "peixe",
