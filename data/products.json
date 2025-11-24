@@ -177,7 +177,7 @@
     "condition": "Novo",
     "description": "Erva do gato de alta potência, cultivada sem agrotóxicos.",
     "images": [
-      "/products/toy.png"
+      "/products/catnip.png"
     ],
     "tags": [
       "catnip",
@@ -196,7 +196,7 @@
     "condition": "Novo",
     "description": "Desafie a mente do seu gato enquanto ele tenta pegar a comida.",
     "images": [
-      "/products/toy.png"
+      "/products/labirinto.png"
     ],
     "tags": [
       "puzzle",
@@ -215,7 +215,7 @@
     "condition": "Novo",
     "description": "Macio e recheado com a melhor erva do gato.",
     "images": [
-      "/products/toy.png"
+      "/products/rat.png"
     ],
     "tags": [
       "pelucia",
