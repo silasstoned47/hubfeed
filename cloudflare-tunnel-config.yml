@@ -1,0 +1,9 @@
+tunnel: <TUNNEL-ID>
+credentials-file: C:\Users\redac\.cloudflared\<TUNNEL-ID>.json
+
+ingress:
+  - hostname: hubfeed.online
+    service: http://localhost:5954
+  - hostname: www.hubfeed.online
+    service: http://localhost:5954
+  - service: http_status:404
